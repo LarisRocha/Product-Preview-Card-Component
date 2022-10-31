@@ -15,7 +15,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Screenshot
 
-![](./Solution Screenshot.png)
+![alt text]([./Solution Screenshot.png](https://github.com/LarisRocha/Frontend-Mentor---Product-Preview-Card-Component/blob/95385955941187e0c0d75d0997d54399508049e7/Solution%20Screenshot.png))
 
 
 ## My process
